@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Nasiba777/leetcode/tree/master/0200-number-of-islands) |
 | [0938-range-sum-of-bst](https://github.com/Nasiba777/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Nasiba777/leetcode/tree/master/0200-number-of-islands) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nasiba777/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
@@ -32,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nasiba777/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Nasiba777/leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Nasiba777/leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Nasiba777/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
