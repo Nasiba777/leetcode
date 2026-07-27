@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Nasiba777/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Nasiba777/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nasiba777/leetcode/tree/master/0210-course-schedule-ii) |
 | [0938-range-sum-of-bst](https://github.com/Nasiba777/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Nasiba777/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Nasiba777/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nasiba777/leetcode/tree/master/0210-course-schedule-ii) |
 | [0994-rotting-oranges](https://github.com/Nasiba777/leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -54,9 +56,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Nasiba777/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nasiba777/leetcode/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Nasiba777/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nasiba777/leetcode/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
