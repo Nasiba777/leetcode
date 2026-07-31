@@ -58,9 +58,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Nasiba777/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nasiba777/leetcode/tree/master/0210-course-schedule-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nasiba777/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nasiba777/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nasiba777/leetcode/tree/master/0210-course-schedule-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nasiba777/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nasiba777/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nasiba777/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
